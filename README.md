@@ -1,6 +1,4 @@
   ### Hello, I am glad to welcome you to my page  👋 
-  🐙😍
-
 
 <!--
 **KirillHub/KirillHub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
