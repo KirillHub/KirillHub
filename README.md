@@ -1,6 +1,6 @@
   ### Hello, I am glad to welcome you to my page  👋 
 
- 🔭 I’m currently working on lib and react project
+ 🔭 I’m currently working on lib and react project.
 <!--
 **KirillHub/KirillHub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
