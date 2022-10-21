@@ -1,6 +1,10 @@
   ### Hello, I am glad to welcome you to my page  👋 
 
  🔭 I’m currently working on lib and react project.
+ 💬 If you want to collaborate or create projects together, write to me in telegram 
+ 📫  Telegram link🔗: https://t.me/tangent_180 ⚡️ 
+ 🤔 I’m looking for help with full-stack project (need C# || PHP developer)
+ 
 <!--
 **KirillHub/KirillHub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
