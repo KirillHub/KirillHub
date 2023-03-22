@@ -1,5 +1,5 @@
   ### Hello, I am glad to welcome you to my page  👋 
-- 🔭 I’m currently working on lib and react project.
+- 🔭 I’m currently working on full stack project
 -  💬 If you want to collaborate or create projects together, write to me in telegram 
 -   📫  Telegram 🔗 https://t.me/tangent_180 ⚡️ 
  
