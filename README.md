@@ -2,6 +2,8 @@
 - 🔭 I’m currently working on full stack project
 -  💬 If you want to collaborate or create projects together, write to me in telegram 
 -   📫  Telegram 🔗 https://t.me/tangent_180 ⚡️ 
+
+![Codewars](https://github.r2v.ch/codewars?user=KirillHub)
  
 <!--
 **KirillHub/KirillHub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
